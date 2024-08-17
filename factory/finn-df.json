@@ -1,0 +1,9 @@
+{
+	"name": "finn-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "330a8eab-59c0-466f-8c3c-1fd7e4fca77c",
+		"tenantId": "4f2e3260-cdbb-4df2-9eb0-56b2c5f2a127"
+	}
+}
