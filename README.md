@@ -20,11 +20,13 @@ Organized the storage into two folders: Development and Production to manage dif
 
 ![image](https://github.com/user-attachments/assets/b2044b51-4ec2-40c9-b5ed-40bc6fbfbb1f)
 
+
 ### **Datasets:**
 
 Created a dataset in ADF to represent the Excel file stored in the Azure Storage Account.
 
 ![image](https://github.com/user-attachments/assets/fa047261-8cb0-4b1b-9479-59c1eadddde1)
+
 
 ### **Dataflows:**
 
@@ -36,12 +38,14 @@ Created a final, filtered dataset named Final which contains the transformed dat
 
 ![image](https://github.com/user-attachments/assets/79575590-7847-4030-89e3-c74318e7bd46)
 
+
 ### **Pipelines:**
 
 Developed pipelines to automate the ETL process.
 Configured parameters within the pipeline to allow dynamic sinking of the Final dataset into the production file.
 
 ![image](https://github.com/user-attachments/assets/00d206c7-2964-481e-998f-b24727fa1e39)
+
 
 ## Technologies Used
 Azure Data Factory (ADF)
