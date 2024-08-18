@@ -1,6 +1,6 @@
 # ETL-using-Databricks
 
-** ETL Project using Azure Data Factory **
+**ETL Project using Azure Data Factory**
 Overview
 This project demonstrates an ETL (Extract, Transform, Load) process using Azure Data Factory (ADF) to extract data from an Excel file, transform it by filtering, and load the final data into a production environment. The project is structured to highlight best practices in data processing and the use of Azure services for scalable and efficient data workflows.
 
