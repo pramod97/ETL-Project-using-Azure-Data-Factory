@@ -48,8 +48,8 @@ Configured parameters within the pipeline to allow dynamic sinking of the Final 
 
 
 ## Technologies Used
-Azure Data Factory (ADF)
-Azure Storage Account
+Azure Data Factory (ADF)  
+Azure Storage Account  
 Excel
 ## Conclusion
 This project showcases a complete ETL process using Azure services, demonstrating proficiency in data integration, transformation, and deployment using cloud-based tools. The structure of the project ensures that it is both scalable and maintainable, making it suitable for real-world data processing scenarios.
